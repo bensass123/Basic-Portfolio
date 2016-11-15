@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+}
+
+
+textarea{
+    width: 640px;
+    height: 200px;
+}
+
+.i2.h4 {
+	size: 28px;
+	color: white;
+}
